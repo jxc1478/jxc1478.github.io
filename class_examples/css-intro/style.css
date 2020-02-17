@@ -22,3 +22,12 @@ strong {
 i,
 em {
 }
+
+a {
+  color; teal;
+  text-decoration: none;
+}
+
+a:hover {
+  background-color;  pink;
+}
