@@ -9,6 +9,9 @@ h1 {color: red(0,50,50);
 
 }
 
+<p class ="flan"> my favorite food is flan </p>
+
+
 p {
   font-weight: 900;
   font-family: "Odibee Sans",
@@ -28,6 +31,6 @@ a {
   text-decoration: none;
 }
 
-a:hover {
+a :hover {
   background-color;  pink;
 }
