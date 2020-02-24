@@ -23,3 +23,9 @@ main {
 .wed { background-color: yellow;
 
 }
+footer{
+  background-color: green;
+  border: 5px solid yellow;
+  margin: 20px;
+  height: 35px;
+}
