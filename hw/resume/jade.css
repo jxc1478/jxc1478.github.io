@@ -42,3 +42,7 @@ a:hover {
 a:link {
   text-decoration: none;
 }
+.special {
+  background-color: pink;
+  color: blue;
+}
