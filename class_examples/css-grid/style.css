@@ -8,19 +8,19 @@ body {
   grid-column-gap: 20px;
 }
 
-.Neighborhood-title {
+.Cuisine-title {
   grid-column-start:1 ;
   grid-column-end: 2;
   grid-row-start:1 ;
   grid-row-end: 2;
 
-.Neighborhood-1-cover {
+.Cuisine-1-cover {
   grid-column-start:3 ;
-  grid-column-end 4;
+  grid-column-end: 4;
   grid-row-start:1;
   grid-row-end: 2;
 }
-.Neighborhood-1-song {
+.Cuisine-1-song {
   grid-column-start:2 ;
   grid-column-end:3;
   grid-row-start:1;
