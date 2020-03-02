@@ -1,7 +1,10 @@
 body {
   width: 900px;
   margin: 0 auto;
-  background-color: blue
+  background-color: blue;
+  font-family: century;
+  color: orange;
+
 }
 nav {
   margin-bottom: 150px;
@@ -9,6 +12,8 @@ nav {
 
 section {
   margin-bottom: 4%;
+  font-family: sans-serif;:
+
 }
 
 /* A gallery grid */
@@ -17,6 +22,8 @@ section {
   /* you can use the following two properties to define the height of your rows or the width of your columns. Units you can use for this are px, %, fr units, and em/rem. */
   grid-template-columns: 150px 150px;
   grid-template-rows: 150px 150px;
+  color: orange;
+  font-family: sans-serif;:
 
   /* grid-column-gap and grid-row-gap let you set the spacing between grid cells. You can set them uniformly using the grid-gap property. */
   grid-column-gap: 20px;
@@ -55,6 +62,7 @@ section {
 .grid2-container {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
+  color: orange;
 }
 
 .grid2-hed {
