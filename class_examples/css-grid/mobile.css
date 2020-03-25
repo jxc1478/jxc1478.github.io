@@ -1,0 +1,19 @@
+@media only screen and (max-width:767px) {
+/*what goes here? */
+/* put in here the CSS for things that need to change at this size. */
+
+body {
+  background-color: pink;
+  margin: 5%;
+}
+
+.grid-container {
+  grid-template-columns: 1fr;
+  grid-template-rows: repeat(5, 100px);
+  grid-column-gap: 0px;
+  grid-row-gap: 15px;
+}
+
+
+
+}
