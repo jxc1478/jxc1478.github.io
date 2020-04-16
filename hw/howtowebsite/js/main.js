@@ -24,14 +24,14 @@ $(document)
   });
 
   $("#ingredientslist").mouseleave(function(){
-    $("#ingredients").html("Ingredients +");
+    $("#ingredients").html("Ingredients");
   });
 // step 1
   $("#step1").click(function(){
     $("#s1").toggle();
   });
   $("#step1").mouseenter(function(){
-    $("#step1").css("color", "#FECOCF");
+    $("#step1").css("color", "#1F4560");
     $("#step1").css("background-color", "white");
   });
   $("#step1").mouseleave(function(){
@@ -44,7 +44,7 @@ $(document)
     $("#s2").toggle();
   });
   $("#step2").mouseenter(function(){
-    $("#step2").css("color", "#FECOCF");
+    $("#step2").css("color", "#1F4560");
     $("#step2").css("background-color", "white");
   });
   $("#step2").mouseleave(function(){
@@ -57,7 +57,7 @@ $(document)
     $("#s3").toggle();
   });
   $("#step3").mouseenter(function(){
-    $("#step3").css("color", "#FECOCF");
+    $("#step3").css("color", "#1F4560");
     $("#step3").css("background-color", "white");
   });
   $("#step3").mouseleave(function(){
@@ -69,7 +69,7 @@ $(document)
     $("#s4").toggle();
   });
   $("#step4").mouseenter(function(){
-    $("#step4").css("color", "#FECOCF");
+    $("#step4").css("color", "#1F4560");
     $("#step4").css("background-color", "white");
   });
   $("#step4").mouseleave(function(){
@@ -81,7 +81,7 @@ $(document)
     $("#s5").toggle();
   });
   $("#step5").mouseenter(function(){
-    $("#step5").css("color", "#FECOCF");
+    $("#step5").css("color", "#1F4560");
     $("#step5").css("background-color", "white");
   });
   $("#step5").mouseleave(function(){
@@ -93,7 +93,7 @@ $(document)
     $("#s6").toggle();
   });
   $("#step6").mouseenter(function(){
-    $("#step6").css("color", "#FECOCF");
+    $("#step6").css("color", "#1F4560");
     $("#step6").css("background-color", "white");
   });
   $("#step6").mouseleave(function(){
