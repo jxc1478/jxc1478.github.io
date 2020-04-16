@@ -101,4 +101,4 @@ $(document)
     $("#step6").css("background-color", "");
   });
 
-});
+}); <script src=”js/main.js” type=”text/javascript”></script>
