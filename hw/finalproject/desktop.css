@@ -10,3 +10,7 @@ body {
   text-decoration: none;
   margin-right: 20px;
 }
+strong { color: white;}
+div.menu-bar li:hover > ul {
+  display: block;
+}
